@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I am Jonas 👋🏼
 
-<!--
-**jonaslomvin/jonaslomvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- SE I am a cloud advisor from Sweden
+- 🐳 I do quite a bunch of containers
+- 🌤 Azure is my datacenter
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Azure container apps
+
+## Get in touch
+
+Reach out via [🐦 Twitter at @lomvin](https://twitter.com/lomvin) or find me on [LinkedIn](https://linkedin.com/in/lomvin).
+
+_last update_: Mon, 08 Nov 2021
