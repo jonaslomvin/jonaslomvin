@@ -1,7 +1,6 @@
 ## Hi there, I am Jonas 👋🏼
 
 - SE I am a cloud advisor from Sweden
-- 🐳 I do quite a bunch of containers
 - 🌤 Azure is my datacenter
 
 ## Currently Learning
